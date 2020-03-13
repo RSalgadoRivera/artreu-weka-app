@@ -1,0 +1,3 @@
+Edad: 80
+Fuerza: 2
+Resultado: Alta probabilidad de Artritis
